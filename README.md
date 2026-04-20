@@ -2,6 +2,8 @@
 
 Real-time hand tracking that detects when your hand approaches a virtual boundary and triggers warnings.
 
+This project was done for an Internshala intern selection.
+
 ## Approach
 
 Used classical CV instead of pose detection libraries:
